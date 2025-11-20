@@ -1,1 +1,4 @@
-print("Hello World, this is the first line of the Quantified Simulator.")
+import BaseWorkbench
+
+if __name__ == "__main__":
+    BaseWorkbench.executePrimaryProgram()
